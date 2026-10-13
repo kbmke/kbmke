@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbmke
 - 👀 I’m interested in expanding my developer knowledge.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Kayla.ball222@gmail.com or Kayla@kayla-ball.com
 
